@@ -1,0 +1,7 @@
+c:\users\yulya\source\repos\Lab_16_OOP\Lab_16_OOP\bin\Debug\Lab_16_OOP.exe.config
+c:\users\yulya\source\repos\Lab_16_OOP\Lab_16_OOP\bin\Debug\Lab_16_OOP.exe
+c:\users\yulya\source\repos\Lab_16_OOP\Lab_16_OOP\bin\Debug\Lab_16_OOP.pdb
+c:\users\yulya\source\repos\Lab_16_OOP\Lab_16_OOP\obj\Debug\Lab_16_OOP.csproj.CoreCompileInputs.cache
+c:\users\yulya\source\repos\Lab_16_OOP\Lab_16_OOP\obj\Debug\Lab_16_OOP.exe
+c:\users\yulya\source\repos\Lab_16_OOP\Lab_16_OOP\obj\Debug\Lab_16_OOP.pdb
+c:\users\yulya\source\repos\Lab_16_OOP\Lab_16_OOP\obj\Debug\Lab_16_OOP.csprojResolveAssemblyReference.cache
